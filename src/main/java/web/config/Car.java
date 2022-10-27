@@ -1,6 +1,5 @@
 package web.config;
 
-import org.thymeleaf.spring5.SpringTemplateEngine;
 
 public class Car {
     private Long id;
